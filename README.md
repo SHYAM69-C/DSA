@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/SHYAM69-C/DSA/tree/master/0202-happy-number) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SHYAM69-C/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/SHYAM69-C/DSA/tree/master/1200-minimum-absolute-difference) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SHYAM69-C/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SHYAM69-C/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Greedy
 |  |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/SHYAM69-C/DSA/tree/master/1200-minimum-absolute-difference) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SHYAM69-C/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## String
+|  |
+| ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SHYAM69-C/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 <!---LeetCode Topics End-->
