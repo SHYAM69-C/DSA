@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/SHYAM69-C/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/SHYAM69-C/DSA/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SHYAM69-C/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-reverse-only-letters](https://github.com/SHYAM69-C/DSA/tree/master/0917-reverse-only-letters) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SHYAM69-C/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Floyd's Cycle Finding Algorithm
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/SHYAM69-C/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SHYAM69-C/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-reverse-only-letters](https://github.com/SHYAM69-C/DSA/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/SHYAM69-C/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SHYAM69-C/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
