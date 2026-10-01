@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/SHYAM69-C/DSA/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/SHYAM69-C/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SHYAM69-C/DSA/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/SHYAM69-C/DSA/tree/master/0575-distribute-candies) |
 | [1189-maximum-number-of-balloons](https://github.com/SHYAM69-C/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SHYAM69-C/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Math
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SHYAM69-C/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SHYAM69-C/DSA/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/SHYAM69-C/DSA/tree/master/0575-distribute-candies) |
 | [1200-minimum-absolute-difference](https://github.com/SHYAM69-C/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SHYAM69-C/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SHYAM69-C/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
