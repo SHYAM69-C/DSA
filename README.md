@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/SHYAM69-C/DSA/tree/master/0051-n-queens) |
 | [0496-next-greater-element-i](https://github.com/SHYAM69-C/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SHYAM69-C/DSA/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/SHYAM69-C/DSA/tree/master/0575-distribute-candies) |
@@ -120,8 +121,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SHYAM69-C/DSA/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/SHYAM69-C/DSA/tree/master/0051-n-queens) |
 ## Sliding Window
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/SHYAM69-C/DSA/tree/master/0594-longest-harmonious-subsequence) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SHYAM69-C/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
