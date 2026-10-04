@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/SHYAM69-C/DSA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/SHYAM69-C/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SHYAM69-C/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0994-rotting-oranges](https://github.com/SHYAM69-C/DSA/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/SHYAM69-C/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SHYAM69-C/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SHYAM69-C/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/SHYAM69-C/DSA/tree/master/0994-rotting-oranges) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SHYAM69-C/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Monotonic Stack
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/SHYAM69-C/DSA/tree/master/0051-n-queens) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/SHYAM69-C/DSA/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
