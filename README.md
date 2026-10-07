@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SHYAM69-C/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/SHYAM69-C/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/SHYAM69-C/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0301-remove-invalid-parentheses](https://github.com/SHYAM69-C/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SHYAM69-C/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/SHYAM69-C/DSA/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/SHYAM69-C/DSA/tree/master/0500-keyboard-row) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/SHYAM69-C/DSA/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/SHYAM69-C/DSA/tree/master/0051-n-queens) |
+| [0301-remove-invalid-parentheses](https://github.com/SHYAM69-C/DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -151,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/SHYAM69-C/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0994-rotting-oranges](https://github.com/SHYAM69-C/DSA/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
