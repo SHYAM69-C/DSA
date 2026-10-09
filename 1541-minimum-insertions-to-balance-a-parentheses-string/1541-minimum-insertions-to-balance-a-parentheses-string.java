@@ -1,30 +1,26 @@
 class Solution {
     public int minInsertions(String s) {
-        int n=s.length();
-        int curr=0;
-        int insertion=0;
-        int result=0;
-        
-        for(int i=0;i<n;i++){
-            char ch= s.charAt(i);
-            if(ch=='('){
-                curr++;
-            } else {
-             
-                    if((i+1) <n && s.charAt(i+1)==')'){
-                    i++;
-                    
-                } else{
-                    insertion++;
-                }
-                if(curr >0){
-                    curr--;
-                } else{
-                   insertion++; 
-                }
+       int n=s.length();
+       int open=0;
+       int insert=0;
+       for(int i=0;i<n;i++){
+        char ch = s.charAt(i);
+        if(ch=='('){
+            open++;
+        } else {
+            if(i+1<n && s.charAt(i+1)==')'){
+                i++;
+            }else{
+                insert++;
+            }
+            if(open >0){
+                open--;
+            } else{
+                insert++;
             }
         }
-        insertion += curr*2;
-        return insertion;
+       } 
+       insert += open*2;
+       return insert;
     }
 }
