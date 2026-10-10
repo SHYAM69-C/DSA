@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SHYAM69-C/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SHYAM69-C/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SHYAM69-C/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SHYAM69-C/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -54,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHYAM69-C/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SHYAM69-C/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SHYAM69-C/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SHYAM69-C/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/SHYAM69-C/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1200-minimum-absolute-difference](https://github.com/SHYAM69-C/DSA/tree/master/1200-minimum-absolute-difference) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SHYAM69-C/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SHYAM69-C/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String
 |  |
 | ------- |
@@ -163,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/SHYAM69-C/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0994-rotting-oranges](https://github.com/SHYAM69-C/DSA/tree/master/0994-rotting-oranges) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SHYAM69-C/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SHYAM69-C/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
