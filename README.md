@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/SHYAM69-C/DSA/tree/master/0051-n-queens) |
 | [0228-summary-ranges](https://github.com/SHYAM69-C/DSA/tree/master/0228-summary-ranges) |
+| [0303-range-sum-query-immutable](https://github.com/SHYAM69-C/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/SHYAM69-C/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SHYAM69-C/DSA/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/SHYAM69-C/DSA/tree/master/0575-distribute-candies) |
@@ -174,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SHYAM69-C/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/SHYAM69-C/DSA/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/SHYAM69-C/DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
