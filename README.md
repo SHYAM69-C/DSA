@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/SHYAM69-C/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SHYAM69-C/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/SHYAM69-C/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SHYAM69-C/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SHYAM69-C/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SHYAM69-C/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SHYAM69-C/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SHYAM69-C/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/SHYAM69-C/DSA/tree/master/1200-minimum-absolute-difference) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SHYAM69-C/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SHYAM69-C/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SHYAM69-C/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
 | ------- |
