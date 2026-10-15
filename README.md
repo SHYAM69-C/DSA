@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SHYAM69-C/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SHYAM69-C/DSA/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/SHYAM69-C/DSA/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/SHYAM69-C/DSA/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/SHYAM69-C/DSA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/SHYAM69-C/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SHYAM69-C/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/SHYAM69-C/DSA/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/SHYAM69-C/DSA/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/SHYAM69-C/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHYAM69-C/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SHYAM69-C/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/SHYAM69-C/DSA/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/SHYAM69-C/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/SHYAM69-C/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1200-minimum-absolute-difference](https://github.com/SHYAM69-C/DSA/tree/master/1200-minimum-absolute-difference) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SHYAM69-C/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -230,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SHYAM69-C/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/SHYAM69-C/DSA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
