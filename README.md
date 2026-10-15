@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/SHYAM69-C/DSA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/SHYAM69-C/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SHYAM69-C/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0682-baseball-game](https://github.com/SHYAM69-C/DSA/tree/master/0682-baseball-game) |
 | [0994-rotting-oranges](https://github.com/SHYAM69-C/DSA/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/SHYAM69-C/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SHYAM69-C/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SHYAM69-C/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/SHYAM69-C/DSA/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/SHYAM69-C/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/SHYAM69-C/DSA/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/SHYAM69-C/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHYAM69-C/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/SHYAM69-C/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/SHYAM69-C/DSA/tree/master/0682-baseball-game) |
 | [2810-faulty-keyboard](https://github.com/SHYAM69-C/DSA/tree/master/2810-faulty-keyboard) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SHYAM69-C/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Dynamic Programming
