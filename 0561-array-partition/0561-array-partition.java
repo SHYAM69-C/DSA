@@ -15,6 +15,7 @@ class Solution {
       }
       }
       res[j++]=nums[n-2];
+      System.out.print(Arrays.toString(res));
        for(int i=0;i<n;i++){
         sum+=res[i];
        } 
