@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/SHYAM69-C/DSA/tree/master/2810-faulty-keyboard) |
 | [3330-find-the-original-typed-string-i](https://github.com/SHYAM69-C/DSA/tree/master/3330-find-the-original-typed-string-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SHYAM69-C/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/SHYAM69-C/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
