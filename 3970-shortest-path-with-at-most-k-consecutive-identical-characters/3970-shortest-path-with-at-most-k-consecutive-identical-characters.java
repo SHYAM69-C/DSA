@@ -5,15 +5,15 @@ class Solution {
         for (int[] e : edges)
             graph[e[0]].add(new int[]{e[1], e[2]});
 
-        int[] best = new int[n];  // best[x]: the shortest run x was settled with, k + 1 until then
+        int[] best = new int[n];  
         Arrays.fill(best, k + 1);
-        PriorityQueue<long[]> heap = new PriorityQueue<>(Arrays::compare);  // (distance, run, node): the walk ends with run nodes labeled labels[node]
+        PriorityQueue<long[]> heap = new PriorityQueue<>(Arrays::compare);  
         heap.add(new long[]{0, 1, 0});
         while (!heap.isEmpty()) {
             long[] s = heap.poll();
             long d = s[0];
             int run = (int) s[1], x = (int) s[2];
-            if (run >= best[x])  // x was settled before, no farther away and with a run no longer
+            if (run >= best[x])  
                 continue;
             if (x == n - 1)
                 return (int) d;
