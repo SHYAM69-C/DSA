@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/SHYAM69-C/DSA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/SHYAM69-C/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SHYAM69-C/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0697-degree-of-an-array](https://github.com/SHYAM69-C/DSA/tree/master/0697-degree-of-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/SHYAM69-C/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SHYAM69-C/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SHYAM69-C/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/SHYAM69-C/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SHYAM69-C/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/SHYAM69-C/DSA/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/SHYAM69-C/DSA/tree/master/0697-degree-of-an-array) |
 | [0994-rotting-oranges](https://github.com/SHYAM69-C/DSA/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/SHYAM69-C/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1254-number-of-closed-islands](https://github.com/SHYAM69-C/DSA/tree/master/1254-number-of-closed-islands) |
