@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SHYAM69-C/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SHYAM69-C/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SHYAM69-C/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/SHYAM69-C/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SHYAM69-C/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SHYAM69-C/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SHYAM69-C/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/SHYAM69-C/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SHYAM69-C/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SHYAM69-C/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/SHYAM69-C/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SHYAM69-C/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SHYAM69-C/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/SHYAM69-C/DSA/tree/master/3886-sum-of-sortable-integers) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SHYAM69-C/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SHYAM69-C/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/SHYAM69-C/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SHYAM69-C/DSA/tree/master/0303-range-sum-query-immutable) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SHYAM69-C/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/SHYAM69-C/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/SHYAM69-C/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Enumeration
 |  |
