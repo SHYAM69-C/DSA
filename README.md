@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/SHYAM69-C/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/SHYAM69-C/DSA/tree/master/0202-happy-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SHYAM69-C/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SHYAM69-C/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SHYAM69-C/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SHYAM69-C/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2409-count-days-spent-together](https://github.com/SHYAM69-C/DSA/tree/master/2409-count-days-spent-together) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/SHYAM69-C/DSA/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/SHYAM69-C/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SHYAM69-C/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SHYAM69-C/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/SHYAM69-C/DSA/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/SHYAM69-C/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/SHYAM69-C/DSA/tree/master/0496-next-greater-element-i) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SHYAM69-C/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/SHYAM69-C/DSA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/SHYAM69-C/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/SHYAM69-C/DSA/tree/master/0594-longest-harmonious-subsequence) |
