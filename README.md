@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SHYAM69-C/DSA/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SHYAM69-C/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/SHYAM69-C/DSA/tree/master/0541-reverse-string-ii) |
+| [0905-sort-array-by-parity](https://github.com/SHYAM69-C/DSA/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/SHYAM69-C/DSA/tree/master/0917-reverse-only-letters) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SHYAM69-C/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Floyd's Cycle Finding Algorithm
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SHYAM69-C/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/SHYAM69-C/DSA/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/SHYAM69-C/DSA/tree/master/0697-degree-of-an-array) |
+| [0905-sort-array-by-parity](https://github.com/SHYAM69-C/DSA/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/SHYAM69-C/DSA/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/SHYAM69-C/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1254-number-of-closed-islands](https://github.com/SHYAM69-C/DSA/tree/master/1254-number-of-closed-islands) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/SHYAM69-C/DSA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/SHYAM69-C/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/SHYAM69-C/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/SHYAM69-C/DSA/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/SHYAM69-C/DSA/tree/master/1200-minimum-absolute-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SHYAM69-C/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SHYAM69-C/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
