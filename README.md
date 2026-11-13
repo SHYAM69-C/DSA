@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/SHYAM69-C/DSA/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/SHYAM69-C/DSA/tree/master/0917-reverse-only-letters) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SHYAM69-C/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/SHYAM69-C/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SHYAM69-C/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/SHYAM69-C/DSA/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SHYAM69-C/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SHYAM69-C/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/SHYAM69-C/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SHYAM69-C/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SHYAM69-C/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/SHYAM69-C/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/SHYAM69-C/DSA/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/SHYAM69-C/DSA/tree/master/1920-build-array-from-permutation) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/SHYAM69-C/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2810-faulty-keyboard](https://github.com/SHYAM69-C/DSA/tree/master/2810-faulty-keyboard) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SHYAM69-C/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/SHYAM69-C/DSA/tree/master/3925-concatenate-array-with-reverse) |
