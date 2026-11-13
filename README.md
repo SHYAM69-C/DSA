@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SHYAM69-C/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/SHYAM69-C/DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SHYAM69-C/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3925-concatenate-array-with-reverse](https://github.com/SHYAM69-C/DSA/tree/master/3925-concatenate-array-with-reverse) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/SHYAM69-C/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Greedy
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/SHYAM69-C/DSA/tree/master/1920-build-array-from-permutation) |
 | [2810-faulty-keyboard](https://github.com/SHYAM69-C/DSA/tree/master/2810-faulty-keyboard) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SHYAM69-C/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3925-concatenate-array-with-reverse](https://github.com/SHYAM69-C/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
 | ------- |
