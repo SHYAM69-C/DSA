@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SHYAM69-C/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SHYAM69-C/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SHYAM69-C/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SHYAM69-C/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SHYAM69-C/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/SHYAM69-C/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SHYAM69-C/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/SHYAM69-C/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SHYAM69-C/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SHYAM69-C/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SHYAM69-C/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Algorithm X
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/SHYAM69-C/DSA/tree/master/0303-range-sum-query-immutable) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SHYAM69-C/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/SHYAM69-C/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SHYAM69-C/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/SHYAM69-C/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Enumeration
 |  |
