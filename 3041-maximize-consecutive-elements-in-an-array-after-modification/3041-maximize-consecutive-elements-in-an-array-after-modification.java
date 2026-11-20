@@ -5,7 +5,7 @@ class Solution {
         for (int x : nums) {
             switch (x - last) {
                 case 0 -> bump = keep + 1; 
-                case 1 -> { keep++; bump++; } 
+                case 1 -> { keep++; bump++; }  
                 case 2 -> { keep = bump + 1; bump = 1; }  
                 default -> keep = bump = 1;
             }
@@ -13,6 +13,5 @@ class Solution {
             last = x;
         }
         return best;
-        
     }
 }
