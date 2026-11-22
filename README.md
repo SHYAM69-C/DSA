@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SHYAM69-C/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SHYAM69-C/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SHYAM69-C/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/SHYAM69-C/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2409-count-days-spent-together](https://github.com/SHYAM69-C/DSA/tree/master/2409-count-days-spent-together) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SHYAM69-C/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SHYAM69-C/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SHYAM69-C/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SHYAM69-C/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SHYAM69-C/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/SHYAM69-C/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/SHYAM69-C/DSA/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SHYAM69-C/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SHYAM69-C/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SHYAM69-C/DSA/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/SHYAM69-C/DSA/tree/master/0051-n-queens) |
 | [0301-remove-invalid-parentheses](https://github.com/SHYAM69-C/DSA/tree/master/0301-remove-invalid-parentheses) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/SHYAM69-C/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/SHYAM69-C/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SHYAM69-C/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/SHYAM69-C/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Depth-First Search
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/SHYAM69-C/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SHYAM69-C/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SHYAM69-C/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SHYAM69-C/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -397,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SHYAM69-C/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/SHYAM69-C/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Binary Tree
 |  |
 | ------- |
