@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SHYAM69-C/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SHYAM69-C/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SHYAM69-C/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/SHYAM69-C/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SHYAM69-C/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/SHYAM69-C/DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/SHYAM69-C/DSA/tree/master/2409-count-days-spent-together) |
