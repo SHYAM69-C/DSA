@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SHYAM69-C/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SHYAM69-C/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/SHYAM69-C/DSA/tree/master/3668-restore-finishing-order) |
+| [3934-smallest-unique-subarray](https://github.com/SHYAM69-C/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/SHYAM69-C/DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SHYAM69-C/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/SHYAM69-C/DSA/tree/master/3925-concatenate-array-with-reverse) |
+| [3934-smallest-unique-subarray](https://github.com/SHYAM69-C/DSA/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/SHYAM69-C/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Greedy
 |  |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/SHYAM69-C/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SHYAM69-C/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/SHYAM69-C/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [3934-smallest-unique-subarray](https://github.com/SHYAM69-C/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -444,4 +447,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SHYAM69-C/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/SHYAM69-C/DSA/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/SHYAM69-C/DSA/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/SHYAM69-C/DSA/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
